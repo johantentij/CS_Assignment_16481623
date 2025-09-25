@@ -1,4 +1,4 @@
-## Computational science skills Assignment 1 ##
+## Computational science skills Assignment 1
 
 Johan Tentij, SID: 16481623
 
@@ -9,4 +9,4 @@ Johan Tentij, SID: 16481623
 
 #### Correlation between higher eduction and alcohol consumption:
 
-![image]{./correlationPlot.png}
+![image](correlationPlot.png)
