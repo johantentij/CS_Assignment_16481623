@@ -9,4 +9,4 @@ Johan Tentij, SID: 16481623
 
 #### Correlation between higher eduction and alcohol consumption:
 
-![image]{correlationPlot.png}
+![image]{./correlationPlot.png}
